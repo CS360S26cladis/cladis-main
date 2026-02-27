@@ -11,58 +11,6 @@
 
 # Meeting Notes
 
-## Meeting 1: 22nd February 2025 (approximate duration: 20 minutes)
+[Meeting 1 (22-02-2025](https://github.com/CS360S26cladis/cladis-main/blob/main/meeting-notes/Meeting%201%20(22-2-2025).md)
 
-### 1. Repository & Access
-
-- Collaborators were added to the repository.
-    
-- The repository was made private.
-    
-- The project was switched to **work mode**.
-    
-
-### 2. Timeline & Deadlines
-
-- Brief discussion regarding the **March 10** deadline.
-    
-- Clarified expectations around deliverables for this milestone.
-    
-
-### 3. Project Documentation
-
-- **Project milestones**, **backlog**, and the **entire corpus** will be maintained on the **Wiki page**.
-    
-- The Wiki will serve as the central source of truth for the project.
-    
-
-### 4. Wiki Page Structure
-
-- The Wiki introduction should be written in a **Wikipedia-style format**.
-    
-- It should function as formal project documentation.
-    
-- Include a **table-based structure** (e.g., naming conventions, modules, or components as required).
-    
-
-### 5. Pages & Organization
-
-- Define a clear **Home Page name**.
-    
-- Separate sections/pages for:
-    
-    - **Backend**
-        
-    - **Documentation**
-        
-
-### 6. Feature Documentation
-
-- Feature documentation will be derived directly from the **backlog**.
-    
-- Each feature should map clearly to backlog items.
-    
-
-### 7. Design & Storyboards
-
-- Storyboards will likely be created using **Figma**.
+[Meeting 2 (27-02-2025](https://github.com/CS360S26cladis/cladis-main/blob/main/meeting-notes/Meeting%202%20(27-2-2025).md)
