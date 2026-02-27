@@ -1,6 +1,4 @@
 
-# 22nd February Weekly Report Meeting
-
 | **Name**        | **Username / ID** |
 | --------------- | ----------------- |
 | **Maaz Shahid** | KarmaMS           |
