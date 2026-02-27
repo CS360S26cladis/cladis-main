@@ -9,7 +9,9 @@
 | **Mowahid**     | Mo-wahid          |
 | **Ahmad**       | Faloodaman        |
 
-## Meeting Notes
+# Meeting Notes
+
+## Meeting 1: 22nd February 2025 (approximate duration: 20 minutes)
 
 ### 1. Repository & Access
 
