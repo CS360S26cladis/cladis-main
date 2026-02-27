@@ -4,10 +4,10 @@
 | **Name**        | **Username / ID** |
 | --------------- | ----------------- |
 | **Maaz Shahid** | KarmaMS           |
-| **Mohib**       | Syed-Mohib-Tayyab |
-| **Amaan**       | LaalBaig          |
-| **Mowahid**     | Mo-wahid          |
-| **Ahmad**       | Faloodaman        |
+| **Mohib Tayyab**       | Syed-Mohib-Tayyab |
+| **Amaan Baig**       | LaalBaig          |
+| **Mowahid Imran**     | Mo-wahid          |
+| **Ahmad Tahir**       | Faloodaman        |
 
 # Meeting Notes
 
